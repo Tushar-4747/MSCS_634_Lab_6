@@ -1,8 +1,13 @@
 Association Rule Mining with Apriori and FP-Growth
+
 Submitted by: Tushar Jitendrakumar Limbachiya
+
 MSCS 634 – Data Mining
+
 Lab 6 Assignment
+
 Project Overview
+
 This project demonstrates the use of Association Rule Mining techniques to uncover meaningful patterns from transactional data. Using the Online Retail Dataset, we apply both the Apriori and FP-Growth algorithms to identify frequent itemsets and generate association rules. The primary goal is to analyze purchasing behavior and extract insights that could be useful in marketing strategies, inventory planning, and recommendation systems.
 
 Objectives Preprocess and clean the Online Retail dataset
